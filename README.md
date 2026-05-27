@@ -1,21 +1,21 @@
 # 10-comandos-docker
 
-docker push <image_name>
+### 1 - docker push <image_name>
 
-docker build [options] path
+### 2 - docker build [options] path
 
-docker-compose up [options]
+### 3 - docker-compose up [options]
 
-docker stop/start/restart <container_name>
+### 4 - docker stop/start/restart <container_name>
 
-docker images
+### 5 - docker images
 
-docker exec -it mycontainer /bin/bash
+### 6 - docker exec -it mycontainer /bin/bash
 
-docker logs <options> <container>
+### 7 - docker logs <options> <container>
 
-docker ps <options>
+### 8 - docker ps <options>
 
-docker run <options> <image>
+### 9 - docker run <options> <image>
 
-docker pull <image_name>
+### 10 - docker pull <image_name>
